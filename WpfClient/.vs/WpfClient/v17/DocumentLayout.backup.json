@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\viewmodel\\registrationpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\registrationpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\viewmodel\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\services\\commands\\relaycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\services\\commands\\relaycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\frames\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\frames\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\frames\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\frames\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\frames\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\frames\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\frames\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\frames\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\view\\frames\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\frames\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|d:\\bstu\\kurs4\\testlaballiance\\wpfclient\\wpfclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86141C67-9E3A-4D23-85D4-667A087F53CE}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +74,196 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfClient\\MainWindow.xaml",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\MainWindow.xaml",
-              "RelativeToolTip": "WpfClient\\MainWindow.xaml",
+              "DocumentIndex": 6,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Frames\\RegistrationPage.xaml",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\RegistrationPage.xaml",
+              "RelativeToolTip": "WpfClient\\View\\Frames\\RegistrationPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-01T06:28:48.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T07:11:41.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowVM.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\ViewModel\\MainWindowVM.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\MainWindowVM.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\ViewModel\\MainWindowVM.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\MainWindowVM.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:13:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Model\\User.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Model\\User.cs",
+              "RelativeToolTip": "WpfClient\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:45:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommands.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Services\\Commands\\RelayCommands.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Services\\Commands\\RelayCommands.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Services\\Commands\\RelayCommands.cs",
+              "RelativeToolTip": "WpfClient\\Services\\Commands\\RelayCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:51:04.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseVM.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\ViewModel\\BaseVM.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\BaseVM.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\ViewModel\\BaseVM.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\BaseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:58:40.953Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RegistrationPageVM.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\ViewModel\\RegistrationPageVM.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\RegistrationPageVM.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\ViewModel\\RegistrationPageVM.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\RegistrationPageVM.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:47:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Services\\UserService.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Services\\UserService.cs",
+              "RelativeToolTip": "WpfClient\\Services\\UserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:55:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Frames\\RegistrationPage.xaml.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "WpfClient\\View\\Frames\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:36:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfClient\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfClient\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfClient\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:28:46.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Frames\\UsersPage.xaml.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\UsersPage.xaml.cs",
+              "RelativeToolTip": "WpfClient\\View\\Frames\\UsersPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:36:16.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WpfClient\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:53:33.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\MainWindow.xaml",
+              "RelativeToolTip": "WpfClient\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T06:28:48.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Frames\\UsersPage.xaml",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\UsersPage.xaml",
+              "RelativeToolTip": "WpfClient\\View\\Frames\\UsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T07:12:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Frames\\LoginPage.xaml",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\View\\Frames\\LoginPage.xaml",
+              "RelativeToolTip": "WpfClient\\View\\Frames\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T07:12:00.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\App.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\App.xaml",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\App.xaml",
+              "RelativeToolTip": "WpfClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T07:04:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfClient\\AssemblyInfo.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfClient\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T06:28:46.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T06:29:13.884Z"
             }
           ]
         }

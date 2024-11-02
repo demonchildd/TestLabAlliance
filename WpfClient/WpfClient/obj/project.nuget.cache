@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SbaA1867m9c=",
+  "dgSpecHash": "+pIjhQL7aWE=",
   "success": true,
   "projectFilePath": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WpfClient\\WpfClient\\WpfClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\romka\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512"
+  ],
   "logs": []
 }
