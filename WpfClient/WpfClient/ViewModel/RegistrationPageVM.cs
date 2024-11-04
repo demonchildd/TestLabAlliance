@@ -8,12 +8,13 @@ using System.Windows;
 using WpfClient.Services.Commands;
 using System.Windows.Media;
 using WpfClient.Services;
+using WpfClient.Services.Interfaces;
 
 namespace WpfClient.ViewModel
 {
     public class RegistrationPageVM : BaseVM
     {
-        private readonly UserService _userService;
+        private readonly IUserService _userService;
         public RegistrationPageVM()
         {
 

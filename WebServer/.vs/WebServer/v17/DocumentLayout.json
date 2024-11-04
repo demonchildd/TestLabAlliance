@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241104052325_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebServer\\Migrations\\20241104052325_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241103223042_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebServer\\Migrations\\20241103223042_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241103222804_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebServer\\Migrations\\20241103222804_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +55,12 @@
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\tools\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\tools\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\tools\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\tools\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,24 +71,12 @@
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\webserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\webserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|d:\\bstu\\kurs4\\testlaballiance\\webserver\\webserver\\migrations\\20241101082534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D3E1EE-F726-4E72-B58A-A68FED5956DD}|WebServer\\WebServer.csproj|solutionrelative:webserver\\migrations\\20241101082534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,63 +86,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Models\\User.cs",
-              "RelativeDocumentMoniker": "WebServer\\Models\\User.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Models\\User.cs",
-              "RelativeToolTip": "WebServer\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20241104052325_InitialCreate.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241104052325_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebServer\\Migrations\\20241104052325_InitialCreate.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241104052325_InitialCreate.cs",
+              "RelativeToolTip": "WebServer\\Migrations\\20241104052325_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T06:37:11.195Z",
+              "WhenOpened": "2024-11-04T05:23:25.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Program.cs",
+              "RelativeDocumentMoniker": "WebServer\\Program.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Program.cs",
+              "RelativeToolTip": "WebServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:37:09.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "WebServer\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "WebServer\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAuAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebServer\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebServer\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:45:15.125Z",
+              "WhenOpened": "2024-11-01T06:37:13.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebServer\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WebServer\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:42:41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "WebServer\\Services\\UserService.cs",
               "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Services\\UserService.cs",
               "RelativeToolTip": "WebServer\\Services\\UserService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T08:43:07.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HashHelper.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Tools\\HashHelper.cs",
-              "RelativeDocumentMoniker": "WebServer\\Tools\\HashHelper.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Tools\\HashHelper.cs",
-              "RelativeToolTip": "WebServer\\Tools\\HashHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebServer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T19:56:51.05Z",
+              "WhenOpened": "2024-11-02T21:18:47.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebServer\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebServer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:18:11.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebServer\\Models\\User.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Models\\User.cs",
+              "RelativeToolTip": "WebServer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:37:11.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\appsettings.json",
+              "RelativeDocumentMoniker": "WebServer\\appsettings.json",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\appsettings.json",
+              "RelativeToolTip": "WebServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T06:40:40.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241103223042_InitialCreate.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241103223042_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebServer\\Migrations\\20241103223042_InitialCreate.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241103223042_InitialCreate.cs",
+              "RelativeToolTip": "WebServer\\Migrations\\20241103223042_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:30:42.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241103222804_InitialCreate.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241103222804_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebServer\\Migrations\\20241103222804_InitialCreate.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241103222804_InitialCreate.cs",
+              "RelativeToolTip": "WebServer\\Migrations\\20241103222804_InitialCreate.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:28:04.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Repository\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "WebServer\\Repository\\Interfaces\\IUserRepository.cs",
@@ -142,76 +239,47 @@
               "RelativeToolTip": "WebServer\\Repository\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:45:49.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T08:45:49.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "WebServer\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "WebServer\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebServer\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "WebServer\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:42:41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T08:45:15.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebServer\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebServer\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T06:37:13.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "WebServer\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "WebServer\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T20:47:01.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T20:47:01.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebServer\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "WebServer\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Tools\\HashHelper.cs",
+              "RelativeDocumentMoniker": "WebServer\\Tools\\HashHelper.cs",
+              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Tools\\HashHelper.cs",
+              "RelativeToolTip": "WebServer\\Tools\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:18:11.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T19:56:51.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Program.cs",
-              "RelativeDocumentMoniker": "WebServer\\Program.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Program.cs",
-              "RelativeToolTip": "WebServer\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T06:37:09.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "UserAlreadyExistsException.cs",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Exceptions\\UserAlreadyExistsException.cs",
               "RelativeDocumentMoniker": "WebServer\\Exceptions\\UserAlreadyExistsException.cs",
@@ -223,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Models\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "WebServer\\Models\\Dto\\UserDto.cs",
@@ -235,31 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "WebServer\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "WebServer\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:25:40.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20241101082534_InitialCreate.cs",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241101082534_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WebServer\\Migrations\\20241101082534_InitialCreate.cs",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\Migrations\\20241101082534_InitialCreate.cs",
-              "RelativeToolTip": "WebServer\\Migrations\\20241101082534_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:25:35.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "WebServer.csproj",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\WebServer.csproj",
               "RelativeDocumentMoniker": "WebServer\\WebServer.csproj",
@@ -271,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "WebServer.http",
               "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\WebServer.http",
               "RelativeDocumentMoniker": "WebServer\\WebServer.http",
@@ -280,18 +324,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-11-01T06:40:43.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\appsettings.json",
-              "RelativeDocumentMoniker": "WebServer\\appsettings.json",
-              "ToolTip": "D:\\BSTU\\Kurs4\\TestLabAlliance\\WebServer\\WebServer\\appsettings.json",
-              "RelativeToolTip": "WebServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T06:40:40.34Z"
             }
           ]
         }

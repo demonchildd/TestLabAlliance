@@ -8,5 +8,7 @@ namespace WebServer.Services.Interfaces
         Task RegistrationAsync(UserDto user);
 
         Task<List<User>> GetUsersAsync();
+
+        Task<string> ValidateUserAsync(UserDto user);
     }
 }

@@ -3,12 +3,46 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:WpfClient.View.Frames"
+      xmlns:local="clr-namespace:WpfClient.View.Frames" xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="LoginPage">
 
     <Grid>
-        <TextBlock>LOGIN</TextBlock>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBlock Text="Логин:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" />
+        <TextBox x:Name="LoginTextBox" Text="{Binding CurrentLogin}" TextAlignment="Center" Grid.Row="0" Grid.Column="1" Margin="5" Width="200" Height="22">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="TextChanged">
+                    <i:InvokeCommandAction Command="{Binding Check}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </TextBox>
+
+        <TextBlock Text="Пароль:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox x:Name="PasswordTextBox" Text="{Binding CurrentPassword}" TextAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="5" Width="200" Height="22">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="TextChanged">
+                    <i:InvokeCommandAction Command="{Binding Check}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </TextBox>
+
+
+        <Button Content="Войти" Command="{Binding Registration}" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" Width="150" Height="30" Padding="10,5"/>
+
+        <TextBlock Text="{Binding CurrentInfo}" Grid.Row="3" TextWrapping="Wrap" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" />
     </Grid>
 </Page>

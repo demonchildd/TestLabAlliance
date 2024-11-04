@@ -21,9 +21,9 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <Button x:Name="Registration" Content="Регистрация" HorizontalAlignment="Center"  VerticalAlignment="Center" Grid.Column="0" Margin="10" CommandParameter="Registration" Command="{Binding SetFrame}"/>
-            <Button x:Name="Login" Content="Вход" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Margin="10" CommandParameter="Login" Command="{Binding SetFrame}"/>
-            <Button x:Name="Users" Content="Получить данные" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="2" Margin="10" CommandParameter="Users" Command="{Binding SetFrame}"/>
+            <Button x:Name="Registration" Content="Регистрация" HorizontalAlignment="Center" Width="150" Height="30"  VerticalAlignment="Center" Grid.Column="0" Margin="10" CommandParameter="Registration" Command="{Binding SetFrame}"/>
+            <Button x:Name="Login" Content="Вход" HorizontalAlignment="Center" Width="150" Height="30" VerticalAlignment="Center" Grid.Column="1" Margin="10" CommandParameter="Login" Command="{Binding SetFrame}"/>
+            <Button x:Name="Users" Content="Получить данные" HorizontalAlignment="Center" Width="150" Height="30" VerticalAlignment="Center" Grid.Column="2" Margin="10" CommandParameter="Users" Command="{Binding SetFrame}"/>
         </Grid>
 
 

@@ -43,7 +43,7 @@
 
         <Button Content="Зарегистрироваться" Command="{Binding Registration}" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" Width="150" Height="30" Padding="10,5"/>
 
-        <TextBlock Text="{Binding CurrentInfo}" Grid.Row="3" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" />
+        <TextBlock Text="{Binding CurrentInfo}" Grid.Row="3" TextWrapping="Wrap" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" />
     </Grid>
 
 </Page>

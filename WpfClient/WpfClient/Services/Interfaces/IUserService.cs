@@ -9,7 +9,7 @@ namespace WpfClient.Services.Interfaces
 {
     public interface IUserService
     {
-        List<User> GetUsers();
+        Task<List<User>> GetUsersAsync();
 
         Task<string> RegisterUserAsync(string login, string password);
     }

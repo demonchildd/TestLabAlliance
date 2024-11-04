@@ -9,11 +9,35 @@ using WebServer.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlite("Data Source=app.db");
+    //options.UseOpenIddict();
 });
+
+
+//builder.Services.AddOpenIddict()
+//    .AddCore(options =>
+//    {
+//        options.UseEntityFrameworkCore()
+//               .UseDbContext<AppDbContext>();
+//    })
+//    .AddServer(options =>
+//    {
+//        options.SetTokenEndpointUris("/login");  
+//        options.AllowPasswordFlow();                       
+
+//        options.AcceptAnonymousClients();               
+//        options.DisableAccessTokenEncryption();          
+
+        
+//        options.AddEphemeralSigningKey();
+//    })
+//    .AddValidation(options =>
+//    {
+//        options.UseLocalServer();                        
+//        options.UseAspNetCore();                        
+//    });
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
@@ -35,7 +59,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
-
+app.UseAuthentication();
 app.MapControllers();
 
 app.Run();
